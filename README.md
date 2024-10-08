@@ -1,4 +1,4 @@
-# El taxi más cercano
+# Segmentación de clientes
 Con este proyecto se hace uso de módulos que tienen como base el álgebra lineal de la librería `sklearn`.
 
 Esto quiere decir que los modelos hacen uso de operaciones matriciales para entrenarse y poder realizar una predicción. Tales operaciones engloban el producto escalar para encontrar la distancia Euclidiana o la distancia Manhattan. Ambas muy útiles para el entrenamiento de modelos de Machine Learning.
